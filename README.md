@@ -55,3 +55,10 @@ The investigation confirmed that FICBANK experienced automated scanning, probing
 - Log correlation and analysis
 - Incident response documentation
 - Indicator of Compromise (IoC) identification
+
+## Recommended Mitigations
+- Block and monitor suspicious external IP addresses at the firewall
+- Disable or restrict unnecessary HTTP POST upload functionality
+- Implement file validation and content inspection to prevent disguised malicious files
+- Apply web application firewall (WAF) rules to detect and block abnormal request patterns
+- Monitor and alert on repeated HTTP errors and unusual traffic behavior
