@@ -1,6 +1,6 @@
 # FICBANK Security Event and Incident Report
 
-📄 Full Report: [View PDF](./FICBANK-Security-Event-and-Incident-Report.pdf)
+📄 Full Report: [View PDF](https://github.com/Viney-Washington/FICBANK-Security-Event-and-Incident-Report/blob/main/Viney%20Washington%20_%20Security%20Event%20and%20Incident%20Report%20.pdf)
 
 ## Overview
 This project simulates a real-world cybersecurity investigation within a financial institution (FICBANK). The objective was to identify indicators of compromise (IoCs) by analyzing log data, network traffic, and file artifacts.
